@@ -14,5 +14,6 @@ public class Ogrenci {
         System.out.println("Burak");
 
         System.out.println("MİKAİL WAS HERE  :))");
+        System.out.println("mer6" );
     }
 }
